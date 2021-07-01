@@ -4,6 +4,8 @@
       <router-link to="/" class="header__link">Home</router-link>
       <router-link to="/about" class="header__link">About</router-link>
       <router-link to="/detail" class="header__link">Detail</router-link>
+      <router-link to="/game" class="header__link">Find Your Dog</router-link>
+
     </nav>
   </header>
 </template>

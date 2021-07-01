@@ -1,7 +1,7 @@
 <template>
   <div class="content">
     <HeaderComponent />
-    <h1>Main Component</h1>
+    <h1> How To Adapt A Dog</h1>
     <router-view />
     <FooterComponent />
   </div>
@@ -20,5 +20,9 @@ export default {
 
 <style lang="scss">
 .content {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
 }
 </style>

@@ -40,7 +40,7 @@ export default {
 
 <style lang="scss">
 .footer {
-  margin: 20px 0;
+  margin:  0;
   padding: 0;
 
   min-height: 80px;

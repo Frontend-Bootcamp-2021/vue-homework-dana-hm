@@ -22,9 +22,9 @@ export default {
 
     setTimeout(() => {
       listings.value = [
-        { id: 1, name: "🥛 Milk" },
-        { id: 2, name: "🥖 Bread" },
-        { id: 3, name: "🥚 Egg" },
+        { id: 1, name: "Dog health" },
+        { id: 2, name: "Dog Activites" },
+        { id: 3, name: "Dog Behavior" },
       ];
     }, 5000);
 

@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from 'vue-router';
 import HomeComponent from '../views/home/Home.vue';
 import AboutComponent from '../views/about/About.vue';
 import DetailComponent from '../views/detail/Detail.vue';
-
+import GameComponent from '../views/game/Game.vue';
 const routes = [
   {
     path: '/',
@@ -17,6 +17,10 @@ const routes = [
     path: '/detail',
     name: 'Detail',
     component: DetailComponent
+  },{
+    path:'/game',
+    name:'Game',
+    component: GameComponent
   }
 ];
 

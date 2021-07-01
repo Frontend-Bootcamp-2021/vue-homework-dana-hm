@@ -3,8 +3,7 @@
     <h2 class="page-header">Home</h2>
     <header class="home__header">
       <h3 class="home__title">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium, dolor.
-      </h3>
+Adopting a dog is a big step. There are a lot of things to consider, from choosing the right one for your lifestyle to deciding where to adopt from. Let us help you find the perfect canine companion.        </h3>
     </header>
   </div>
 </template>
